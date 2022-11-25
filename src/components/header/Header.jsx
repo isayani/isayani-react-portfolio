@@ -17,7 +17,7 @@ function Header() {
         <img src={Me} alt='image of Insha Sayani'/>
       </div>
 
-      <a href="#contact" className='scroll__down'>Scroll Down</a>
+      <a href="#header" className='scroll__down'> &#60;</a>
       </div>
     </header>
   )
