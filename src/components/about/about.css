@@ -37,7 +37,7 @@
   background: var(--color-bg-variant);
   border: 1px solid transparent;
   border-radius: 1rem;
-  padding: 3rem;
+  padding: 2rem;
   text-align: center;
   transition: var(--transition);
 }
@@ -78,11 +78,6 @@
   .about__me {
     width: 50%;
     margin: 2rem auto 4rem;
-  }
-
-  .about__card {
-    padding-left: 1rem;
-    padding-right: 1rem;
   }
 
   .about__content {
