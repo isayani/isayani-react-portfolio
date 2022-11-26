@@ -47,7 +47,7 @@ function About() {
             corrupti quasi distinctio?
           </p>
 
-          <a href="#contact" className="btn btn-primary">
+          <a href="#contact" className="btn btn-primary about__btn">
             Connect
           </a>
         </div>
