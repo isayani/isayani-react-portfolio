@@ -12,7 +12,7 @@ function About() {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={meAbout} alt="About Section Image of Insha Sayani" />
+            <img src={meAbout} alt="Creator in About Section" />
           </div>
         </div>
 
@@ -23,7 +23,7 @@ function About() {
                 <FaAward />
               </icon>
               <h5>Experience</h5>
-              <small>5+ Years Working</small>
+              <small>3+ Years Working</small>
             </article>
             <article className="about__card">
               <icon className="about__icon">
