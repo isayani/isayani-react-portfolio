@@ -1,25 +1,25 @@
 import React from "react";
 import "./contact.css";
 import { HiOutlineMail } from "react-icons/hi";
-import { SlSocialLinkedin } from "react-icons/sl";
+import { FiLinkedin } from "react-icons/fi";
 
 function Contact() {
   return (
     <section id="contact">
       <h5>Get in Touch</h5>
-      <h3>Contact Me</h3>
+      <h2>Contact Me</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <HiOutlineMail />
+            <HiOutlineMail className="contact__option-icon"/>
             <h4>Email</h4>
             <a href="mailto:inshasayani@gmail.com" target="_blank" className="">
               Send a message
             </a>
           </article>
           <article className="contact__option">
-            <SlSocialLinkedin />
+            <FiLinkedin className="contact__option-icon"/>
             <h4>LinkedIn</h4>
             <a
               href="www.linkedin.com/in/inshasayani"
@@ -50,7 +50,7 @@ function Contact() {
             placeholder="Your Message"
             required
           ></textarea>
-          <button type="submit" className="btn btn-primary">
+          <button type="submit" id="contact__btn" className="btn btn-primary">
             Submit
           </button>
         </form>
