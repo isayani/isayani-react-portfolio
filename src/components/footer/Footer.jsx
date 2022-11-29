@@ -1,11 +1,13 @@
 import React from 'react';
 import './footer.css'
 import {AiOutlineFacebook, AiOutlineInstagram} from 'react-icons/ai'
-import { TwitterLogoIcon } from '@radix-ui/react-icons'
+import {TfiTwitter} from 'react-icons/tfi'
+import {FiGithub, FiLinkedin} from 'react-icons/fi'
+
 
 function Footer() {
   return (
-    <footer>
+    <footer id='footer'>
       <a href="#" className="footer__logo">ISAYANI</a>
 
       <ul className="permaLinks">
@@ -20,7 +22,11 @@ function Footer() {
       <div className="footer__socials">
         <a href="https://facebook.com/isayaniphotography"><AiOutlineFacebook/></a>
         <a href="https://instagram.com/insha.gram"><AiOutlineInstagram/></a>
-        <a href="https://twitter.com/inshasayani"><TwitterLogoIcon/></a>
+        <a href="https://twitter.com/inshasayani" id='twitter__logo'><TfiTwitter/></a>
+        <span className="mobile__socials">
+        <a href="https://github.com/isayani"><FiGithub/></a>
+        <a href="https://linkedin.com/in/inshasayani"><FiLinkedin/></a>
+        </span>
       </div>
 
       <div className="footer__copyright">
