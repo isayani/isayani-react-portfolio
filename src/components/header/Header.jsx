@@ -17,7 +17,7 @@ function Header() {
         <img src={Me} alt='image of Insha Sayani'/>
       </div>
 
-      <a href="#header" className='scroll__up'> Scroll Up </a>
+      <a href="#footer" className='scroll__up'> Scroll Down </a>
       </div>
     </header>
   )
