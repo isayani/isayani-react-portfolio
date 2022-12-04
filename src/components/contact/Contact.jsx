@@ -41,24 +41,25 @@ function Contact() {
             </a>
           </article>
         </div>
+        
         {/* START CONTACT FORM*/}
         <form>
           <input
             type="text"
             name="name"
-            placeholder="First Name Last Name"
+            placeholder="Enter your full name"
             required
           />
           <input
             type="email"
             name="email"
-            placeholder="youremail@email.com"
+            placeholder="Enter your email address"
             required
           />
           <textarea
             name="message"
             rows="7"
-            placeholder="Your Message"
+            placeholder="Type your message here"
             required
           ></textarea>
           <button type="submit" id="contact__btn" className="btn btn-primary">
