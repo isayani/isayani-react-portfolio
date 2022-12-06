@@ -49,7 +49,7 @@ header {
 	padding: 5rem 1.5rem;
 }
 
-/* -------- SCROLL UP -------- */
+/* -------- SCROLL DOWN -------- */
 .scroll__up {
 	position: absolute;
 	right: -2.3rem;
@@ -81,4 +81,11 @@ header {
 	.scroll__up {
 		display: none;
 	}
+
+	/* .me {
+	width: 75%;
+	height: auto;
+	padding: 1.5rem;
+	margin-left: 15%;
+	} */
 }

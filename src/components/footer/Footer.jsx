@@ -3,12 +3,16 @@ import './footer.css'
 import {AiOutlineFacebook, AiOutlineInstagram} from 'react-icons/ai'
 import {TfiTwitter} from 'react-icons/tfi'
 import {FiGithub, FiLinkedin} from 'react-icons/fi'
+import Signature from '../../assets/Signature-White.png'
 
 
 function Footer() {
   return (
     <footer id='footer'>
-      <a href="#" className="footer__logo">ISAYANI</a>
+      {/* <div className="footer__logo">
+        <a href="#" className="footer__logo">ISAYANI</a>
+      </div> */}
+      <a href="#" className="footer__logo"><img src={Signature} alt='image of Insha Sayani'/></a>
 
       <ul className="permaLinks">
        <li><a href="#">Home</a></li>

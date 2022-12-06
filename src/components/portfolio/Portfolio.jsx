@@ -3,52 +3,52 @@ import "./portfolio.css";
 import cover1 from "../../assets/portfolio1.jpg";
 import cover2 from "../../assets/portfolio2.jpg";
 import cover3 from "../../assets/portfolio3.jpg";
-import cover4 from "../../assets/portfolio4.jpg";
+import cover4 from "../../assets/DFQ2.gif";
 import cover5 from "../../assets/portfolio5.png";
 import cover6 from "../../assets/portfolio6.jpg";
 
-// SAMPLE IMAGES NOT FOR PRODUCTION
+// IMAGES FOR PRIVATE USE ONLY (NO CREATIVE COMMONS)
 
 const data = [
   {
     id: 1,
     image: cover1,
-    title: "Project 1",
-    github: "https://github.com/isayani",
-    demo: "https://github.com/isayani",
+    title: "Novelty Book Swap",
+    github: "https://github.com/isayani/novelty-book-swap",
+    demo: "https://github.com/isayani/novelty-book-swap",
   },
   {
     id: 2,
     image: cover2,
-    title: "Project 2",
-    github: "https://github.com/isayani",
-    demo: "https://github.com/isayani",
+    title: "Mix & Match",
+    github: "https://github.com/isayani/cocktail-music-generator",
+    demo: "https://isayani.github.io/cocktail-music-generator/",
   },
   {
     id: 3,
     image: cover3,
-    title: "Project 3",
+    title: "URB+SAGE Apothecary",
     github: "https://github.com/isayani",
-    demo: "https://github.com/isayani",
+    demo: "https://urbnsage.com",
   },
   {
     id: 4,
     image: cover4,
-    title: "Project 4",
+    title: "Dhul-Faqar Label",
     github: "https://github.com/isayani",
-    demo: "https://github.com/isayani",
+    demo: "https://dhulfaqar.com",
   },
   {
     id: 5,
     image: cover5,
-    title: "Project 5",
+    title: "ISayani Portfolio",
     github: "https://github.com/isayani",
     demo: "https://github.com/isayani",
   },
   {
     id: 6,
     image: cover6,
-    title: "Project 6",
+    title: "Stefana Masic",
     github: "https://github.com/isayani",
     demo: "https://github.com/isayani",
   },
