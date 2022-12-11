@@ -1,5 +1,5 @@
 import React from "react";
-import "./portfolio.css";
+import "./project.css";
 import cover1 from "../../assets/portfolio1.jpg";
 import cover2 from "../../assets/portfolio2.jpg";
 import cover3 from "../../assets/portfolio3.jpg";
