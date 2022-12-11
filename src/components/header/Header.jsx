@@ -18,13 +18,12 @@ function Header() {
               <img src={Me} alt="image of Insha Sayani" />
             </div>
           </div>
+          <HeaderSocials />
+          <a href="#footer" className="scroll__down">
+            Scroll Down
+          </a>
         </div>
       </header>
-      <HeaderSocials />
-      <a href="#footer" className="scroll__down">
-        {" "}
-        Scroll Down{" "}
-      </a>
     </>
   );
 }
