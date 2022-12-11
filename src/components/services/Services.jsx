@@ -11,24 +11,24 @@ function Services() {
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3> UI/UX Design</h3>
+            <h3> Marketing Consultation</h3>
           </div>
 
           <ul className='service__list'>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Conduct data analyses on pre-existing business performance.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Survey current marketing plan and adjust for target market.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>UI/UX consultations and subsequent website improvements.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Implement modern strategies to impact key metrics.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Provide industry knowledge on e-commerce strategy.</p>
             </li>
           </ul>
         </article>
@@ -40,46 +40,46 @@ function Services() {
 
           <ul className='service__list'>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Front to back-end development (with database functionality).</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Third-party platform development (Shopify, WordPress, Wix).</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Continued consultations on structure and design of website.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Wireframe (mockup) of website prior to the start of project.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Responsive and Semantic web-design that is inclusive.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>UI/UX centered design to keep site easy and legible.</p>
             </li>
           </ul>
         </article>
         {/* START OF CONTENT CREATION */}
         <article className='service'>
           <div className="service__head">
-            <h3> Content Creation</h3>
+            <h3> Creative Collaboration</h3>
           </div>
 
           <ul className='service__list'>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Content creation with Adobe Suite (digital graphic design).</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Photography and editing services for your site or in general.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Art Commisions in 2D/3D Art (contact for more information).</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Generating GIFs, Photo Graphics, etc. for your site or in general.</p>
             </li>
             <li><FiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Custom requests accepted, please use the form below.</p>
             </li>
           </ul>
         </article>
