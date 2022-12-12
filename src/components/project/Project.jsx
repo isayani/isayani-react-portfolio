@@ -15,7 +15,7 @@ const data = [
     image: cover1,
     title: "Novelty Book Swap",
     github: "https://github.com/isayani/novelty-book-swap",
-    demo: "https://github.com/isayani/novelty-book-swap",
+    demo: "https://novelty-book-swap.herokuapp.com/",
   },
   {
     id: 2,
@@ -41,16 +41,16 @@ const data = [
   {
     id: 5,
     image: cover5,
-    title: "ISayani Portfolio",
-    github: "https://github.com/isayani",
-    demo: "https://github.com/isayani",
+    title: "Weather Dashboard",
+    github: "https://github.com/isayani/server-side-weather-dashboard",
+    demo: "https://isayani.github.io/server-side-weather-dashboard/",
   },
   {
     id: 6,
     image: cover6,
-    title: "Stefana Masic",
-    github: "https://github.com/isayani",
-    demo: "https://github.com/isayani",
+    title: "Daily Planner",
+    github: "https://github.com/isayani/third-party-api-day-planner",
+    demo: "https://isayani.github.io/third-party-api-day-planner/",
   },
 ];
 
@@ -74,14 +74,14 @@ function Portfolio() {
                   className="btn"
                   target="_blank"
                 >
-                  GitHub Repo
+                  GitHub
                 </a>
                 <a
                   href={demo}
                   className="btn btn-primary"
                   target="_blank"
                 >
-                  Live Demo
+                  Live Site
                 </a>
               </div>
             </article>
