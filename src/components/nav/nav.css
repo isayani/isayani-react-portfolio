@@ -23,12 +23,12 @@ nav a {
 }
 
 nav a:hover {
-    background: var(--color-nav);
+  background: var(--color-nav);
 }
 
 nav a.active {
-    background: var(--color-nav);
-    color: var(--color-primary);
+  background: var(--color-nav);
+  color: var(--color-primary);
 }
 
 /* ----- XSMALL MEDIA QUERY ----- */

@@ -1,7 +1,5 @@
 header {
-  /* height: 50rem; */
   padding-top: 7rem;
-  /* overflow: hidden; */
 }
 
 .header__container {
@@ -42,8 +40,6 @@ header {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
   height: 30rem;
-  /* position: absolute; */
-  /* left: calc(50% - 11rem); */
   margin: 4rem auto;
   border-radius: 12rem 12rem 0 0;
   overflow: hidden;
@@ -62,14 +58,6 @@ header {
 
 /* ----- MEDIUM MEDIA QUERY ----- */
 @media screen and (max-width: 1024px) {
-  /* .scroll__down {
-    bottom: 21vh;
-  }
-
-  .header__socials {
-    bottom: 17vh;
-  } */
-
   .header__socials,
   .scroll__down {
     font-size: 1.4rem;

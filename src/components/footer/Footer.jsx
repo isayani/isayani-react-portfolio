@@ -9,9 +9,6 @@ import Signature from '../../assets/Signature-White.png'
 function Footer() {
   return (
     <footer id='footer'>
-      {/* <div className="footer__logo">
-        <a href="#" className="footer__logo">ISAYANI</a>
-      </div> */}
       <a href="#" className="footer__logo"><img src={Signature} alt='image of Insha Sayani'/></a>
 
       <ul className="permaLinks">

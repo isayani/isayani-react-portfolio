@@ -30,7 +30,6 @@
   row-gap: 2rem;
 }
 
-/* TO-DO: work around icon size changing */
 .experience__details {
   display: flex;
   gap: 1rem;
