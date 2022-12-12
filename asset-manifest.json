@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/isayani-react-portfolio/static/css/main.f9aa2dac.css",
+    "main.js": "/isayani-react-portfolio/static/js/main.b94a6054.js",
+    "static/media/DFQ2.gif": "/isayani-react-portfolio/static/media/DFQ2.90f3d34c9b04742d8a14.gif",
+    "static/media/IMG_8775.png": "/isayani-react-portfolio/static/media/IMG_8775.522494b896fa6665064a.png",
+    "static/media/IMG_0337.jpg": "/isayani-react-portfolio/static/media/IMG_0337.72fd962f35d361250380.jpg",
+    "static/media/portfolio5.png": "/isayani-react-portfolio/static/media/portfolio5.6a07ca3383a31ed3d3f0.png",
+    "static/media/portfolio6.jpg": "/isayani-react-portfolio/static/media/portfolio6.b9c966692231a0111c4b.jpg",
+    "static/media/portfolio1.jpg": "/isayani-react-portfolio/static/media/portfolio1.4451f93e414af2206f01.jpg",
+    "static/media/portfolio3.jpg": "/isayani-react-portfolio/static/media/portfolio3.1075b61a731a708c6ce0.jpg",
+    "static/media/Signature-White.png": "/isayani-react-portfolio/static/media/Signature-White.4725dab59f1cf5e8a837.png",
+    "static/media/cv.pdf": "/isayani-react-portfolio/static/media/cv.64c2d2705632db8f0de4.pdf",
+    "static/media/portfolio2.jpg": "/isayani-react-portfolio/static/media/portfolio2.73dbba8f575644b5c547.jpg",
+    "index.html": "/isayani-react-portfolio/index.html",
+    "main.f9aa2dac.css.map": "/isayani-react-portfolio/static/css/main.f9aa2dac.css.map",
+    "main.b94a6054.js.map": "/isayani-react-portfolio/static/js/main.b94a6054.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9aa2dac.css",
+    "static/js/main.b94a6054.js"
+  ]
+}
