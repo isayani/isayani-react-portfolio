@@ -58,12 +58,18 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ## Installation
 This application is deployed on [GitHub Pages](https://isayani.github.io/isayani-react-portfolio/).
 
+<br/>
 The following animation demonstrates the application's functionality:
 
-[Placeholder for GIF]
+https://user-images.githubusercontent.com/107900180/206947139-ed155f5c-688d-4cf2-bf78-e1e78d60669f.mp4
 
+<br/>
+The following animation demonstrates the application's mobile interface:
+
+https://user-images.githubusercontent.com/107900180/206946944-20f3e823-75e3-4487-bed5-c705e0686de0.mp4
 
 ## License
+
 This project is licensed under the MIT license.
 
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.<p/>For more information visit [MIT Licensing](https://choosealicense.com/licenses/mit/).
@@ -74,8 +80,8 @@ A short and simple permissive license with conditions only requiring preservatio
 * React-icons
 * React-scroll
 * React-scripts
-* JavaScript
 * Web-vitals
+* JavaScript
 
 ## Future Development
 We would like to continue to add the following functionality to our application:
@@ -90,7 +96,7 @@ No tests were run to complete this CMS.
 
 ## Questions
 Find Insha Sayani on [GitHub](https://github.com/isayani)<br/>
-Or visit the portfolio's repository: [ISayani Portfolio](https://github.com/isayani/isayani-react-portfolio)
+Or visit the portfolio's repository: [ISayani React Portfolio](https://github.com/isayani/isayani-react-portfolio)
 
 - - -
 © 2022 ISayani Creative Services, Confidential and Proprietary. All Rights Reserved.
