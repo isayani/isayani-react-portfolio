@@ -24,12 +24,12 @@ function Footer() {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com/isayaniphotography"><AiOutlineFacebook/></a>
-        <a href="https://instagram.com/insha.gram"><AiOutlineInstagram/></a>
-        <a href="https://twitter.com/inshasayani" id='twitter__logo'><TfiTwitter/></a>
+        <a href="https://facebook.com/isayaniphotography" target="_blank"><AiOutlineFacebook/></a>
+        <a href="https://instagram.com/insha.art" target="_blank"><AiOutlineInstagram/></a>
+        <a href="https://twitter.com/inshasayani" id='twitter__logo' target="_blank"><TfiTwitter/></a>
         <span className="mobile__socials">
-        <a href="https://github.com/isayani"><FiGithub/></a>
-        <a href="https://linkedin.com/in/inshasayani"><FiLinkedin/></a>
+        <a href="https://github.com/isayani" target="_blank"><FiGithub/></a>
+        <a href="https://linkedin.com/in/inshasayani" target="_blank"><FiLinkedin/></a>
         </span>
       </div>
 
