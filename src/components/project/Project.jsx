@@ -41,9 +41,9 @@ const data = [
   {
     id: 5,
     image: cover5,
-    title: "Weather Dashboard",
-    github: "https://github.com/isayani/server-side-weather-dashboard",
-    demo: "https://isayani.github.io/server-side-weather-dashboard/",
+    title: "Veriti",
+    github: "https://github.com/veriti-app/veriti",
+    demo: "https://veriti-app.herokuapp.com/",
   },
   {
     id: 6,
